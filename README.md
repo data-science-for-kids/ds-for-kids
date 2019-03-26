@@ -1,5 +1,6 @@
 # Data Science for Kids! 
-Our fun initiative to teach kids data science
+Our fun initiative to teach kids data science.
+
 Details on http://datasciencekids.org
 
 ### Folder structure
